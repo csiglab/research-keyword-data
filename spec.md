@@ -12,8 +12,7 @@
 
 - Header
 - Tabs
-    - Overview
-    - See the Artifact - Section Distribution.
+    - (See the Artifact - Tab)
 - Footer
 - Other
     - Toolbox Botton:
@@ -423,7 +422,7 @@
 }
 ```
 
-### Artifact - Section Distribution
+### Artifact - Tab
 
 | Tab                                            | Concrete Epistemic Artifact            | Description (How it encodes the dataset)                                                                                                                 | Type                                  | Role                                                                                      |
 | ---------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------- |
